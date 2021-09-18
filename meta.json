@@ -2,22 +2,25 @@
   {
     "id": 0,
     "description": "Avataaar 1",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://raw.githubusercontent.com/wpitallo/nft-meta/main/assets/avataaar-4.svg",
-    "name": "Avataaar 2 - Jon"
+    "external_url": "https://github.com/CryptoTokens/nft-meta#readme",
+    "image": "https://github.com/CryptoTokens/nft-meta/blob/main/assets/avataaar-1.svg",
+    "name": "Avataaar 1 - Jon",
+    "genetics": "AABA"
   },
   {
     "id": 1,
     "description": "Avataaar 2",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://raw.githubusercontent.com/wpitallo/nft-meta/main/assets/avataaar-2.svg",
-    "name": "Avataaar 2 - Sam"
+    "external_url": "https://github.com/CryptoTokens/nft-meta#readme",
+    "image": "https://github.com/CryptoTokens/nft-meta/blob/main/assets/avataaar-2.svg",
+    "name": "Avataaar 2 - Sam",
+    "genetics": "AABB"
   },
   {
     "id": 2,
     "description": "Avataaar 3",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://raw.githubusercontent.com/wpitallo/nft-meta/main/assets/avataaar-3.svg",
-    "name": "Avataaar 3 - Bob"
+    "external_url": "https://github.com/CryptoTokens/nft-meta#readme",
+    "image": "https://github.com/CryptoTokens/nft-meta/blob/main/assets/avataaar-3.svg",
+    "name": "Avataaar 3 - Bob",
+    "genetics": "AABD"
   }
 ]
